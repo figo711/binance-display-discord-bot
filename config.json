@@ -1,0 +1,10 @@
+{
+    "list": [
+        { "style": "BTC", "coin": "BTCUSDT" },
+	    { "style": "PEPE", "coin": "PEPEUSDT" },
+	    { "style": "USTC", "coin": "USTCUSDT" },
+	    { "style": "LUNC", "coin": "LUNCUSDT" },
+	    { "style": "LUNA", "coin": "LUNAUSDT" }
+    ],
+    "interval": 5
+}
